@@ -1,1 +1,1 @@
-This will hold the work for AFS 505 Unit 3.
+This GitHub has all the needed files to run AFS 505 Project 3.  
