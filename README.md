@@ -11,7 +11,7 @@ Directions:
        the Nextflow script project.nf if you plan on running a different file using the same code.  Instructions on what needs to be changed 
        will be in that file.  If you plan on running more cpus than 5, go into the nextflow.config and change the cpus under blast to whatever 
        you need.
-   3. Once the script is running, you will get a notification when it starts and then another notification once the job finishes.  This will     
+   3. Once the script is running, you will get a notification when it starts and then another notification once the job finishes. This will   
       take somehwere between 5 and 5 1/2 hours. 
    4. Run the line find -name "fasta_results.txt" or whatever you have changed that line to in order to find where that file was saved within 
       the work directory.  
