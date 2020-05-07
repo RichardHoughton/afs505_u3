@@ -3,7 +3,7 @@ This GitHub has all the needed files to run AFS 505 Project 3.
 Directions:
 
    1. Download all of the required files.  
-   2. From the command line, run the line of code sbatch projectSLURM.sh.  This script will add java, blast, and nextflow, so no steps are   
+   2. From the command line, run the line of code sbatch projectSLURM.sh.  This script will add java, blast, and nextflow, so no steps are 
       needed prior to this.
      - There are lines within this SLURM script that set an email address to send notifications when the job is finished.  Before 
        running the       
